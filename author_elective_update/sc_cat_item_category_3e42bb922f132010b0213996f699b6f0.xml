@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Beth's Item">8ef13f522f132010b0213996f699b650</sc_cat_item>
+        <sc_category display_value="Services">109f0438c6112276003ae8ac13e7009d</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-06 10:09:45</sys_created_on>
+        <sys_id>3e42bb922f132010b0213996f699b6f0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Services.Beth's Item</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sc_cat_item_category_3e42bb922f132010b0213996f699b6f0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-06 10:09:45</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>0fd96ccadba7d74852e3f70fbf9619ed</instance_id>
+        <instance_name>dev67581</instance_name>
+        <name>sc_cat_item_category_3e42bb922f132010b0213996f699b6f0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Beth's Item">8ef13f522f132010b0213996f699b650</sc_cat_item><sc_category display_value="Services">109f0438c6112276003ae8ac13e7009d</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-04-06 10:09:45</sys_created_on><sys_id>3e42bb922f132010b0213996f699b6f0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Services.Beth's Item</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sc_cat_item_category_3e42bb922f132010b0213996f699b6f0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-04-06 10:09:45</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-1925063676</payload_hash>
+        <record_name>Services.Beth's Item</record_name>
+        <reverted_from/>
+        <source>c557d33a2f622010b0213996f699b624</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-06 10:09:45</sys_created_on>
+        <sys_id>7a42fb922f132010b0213996f699b600</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>178a6a8d4680000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-06 10:09:45</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>b242fb92f81320107a182045314dd400</update_guid>
+        <update_guid_history>b242fb92f81320107a182045314dd400:-1925063676</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Services.Beth's Item">1749331a2f132010b0213996f699b6eb</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-04-06 10:40:23</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>105fee84462648e8ae5f2952dc422ee9</sys_id>
+        <sys_metadata>3e42bb922f132010b0213996f699b6f0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Services.Beth's Item</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_3e42bb922f132010b0213996f699b6f0</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_3e42bb922f132010b0213996f699b6f0">7a42fb922f132010b0213996f699b600</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-04-06 10:40:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
